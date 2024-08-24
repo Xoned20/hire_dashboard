@@ -1,0 +1,1 @@
+web: gunicorn hire:server --workers 4
